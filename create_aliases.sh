@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 alias blink="./scripts/blink.sh"
 alias dim="./scripts/dim.sh"
