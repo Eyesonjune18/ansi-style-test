@@ -1,0 +1,8 @@
+\x1b[90mBrightBlack
+\x1b[91mBrightRed
+\x1b[92mBrightGreen
+\x1b[93mBrightYellow
+\x1b[94mBrightBlue
+\x1b[95mBrightMagenta
+\x1b[96mBrightCyan
+\x1b[97mBrightWhite
